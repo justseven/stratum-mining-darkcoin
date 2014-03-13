@@ -66,3 +66,12 @@ diff for stratum-mining-darkcoin
 
 #dark_hash = x11_hash
 use : https://github.com/chaeplin/p2pool-drk/tree/master/py_module/darkcoin-hash-python
+
+
+# Worked ? donation to fundraiser for Darkcoin marketing & branding
+  https://bitcointalk.org/index.php?topic=421615.msg5616989#msg5616989
+  Fundraising wallet: Xc8xGSP7FwWGPQpgw298z7NYdA8xJK8ooh
+  
+# Test result
+  https://bitcointalk.org/index.php?topic=421615.msg5673525#msg5673525
+ 
